@@ -5,3 +5,8 @@ class Process:
         self.memory = memory
         self.priority = priority
         self.waiting_time = 0
+
+git pull
+git add .
+git commit -m "Added Process class"
+git push

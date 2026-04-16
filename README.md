@@ -32,4 +32,4 @@ The system prints:
 - Memory usage
 - Currently running process at each time step
 
-## 
+## Project completed successfully.

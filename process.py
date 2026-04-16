@@ -4,4 +4,8 @@ class Process:
         self.cpu_burst = cpu_burst
         self.memory = memory
         self.priority = priority
+
         self.waiting_time = 0
+
+        self.waiting_time = 0
+

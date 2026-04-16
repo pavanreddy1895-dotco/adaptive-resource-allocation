@@ -1,3 +1,4 @@
+# Adaptive logic
 def adaptive_allocation(processes):
     for p in processes:
 

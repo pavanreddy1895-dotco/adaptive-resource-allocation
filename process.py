@@ -1,3 +1,4 @@
+# Process class module
 class Process:
     def __init__(self, pid, cpu_burst, memory, priority):
         self.pid = pid

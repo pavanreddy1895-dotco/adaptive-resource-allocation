@@ -1,3 +1,4 @@
+# Scheduling logic
 def schedule(processes):
 
     processes.sort(key=lambda x: x.priority)
